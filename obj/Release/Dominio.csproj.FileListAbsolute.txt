@@ -1,0 +1,6 @@
+D:\Curso C# Nivel 2\ejemplos-ado-net\Dominio\bin\Release\Dominio.dll
+D:\Curso C# Nivel 2\ejemplos-ado-net\Dominio\bin\Release\Dominio.pdb
+D:\Curso C# Nivel 2\ejemplos-ado-net\Dominio\obj\Release\Dominio.csproj.AssemblyReference.cache
+D:\Curso C# Nivel 2\ejemplos-ado-net\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+D:\Curso C# Nivel 2\ejemplos-ado-net\Dominio\obj\Release\Dominio.dll
+D:\Curso C# Nivel 2\ejemplos-ado-net\Dominio\obj\Release\Dominio.pdb
